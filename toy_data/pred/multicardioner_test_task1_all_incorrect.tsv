@@ -1,0 +1,22 @@
+filename	label	start_span	end_span	text
+casos_clinicos_cardiologia508	ENFERMEDAD	88	89	hábitos tóxicos
+casos_clinicos_cardiologia508	ENFERMEDAD	124	195	HTA
+casos_clinicos_cardiologia508	ENFERMEDAD	130	111	dislipemia
+casos_clinicos_cardiologia508	ENFERMEDAD	4576	112	miocarditis aguda
+casos_clinicos_cardiologia508	ENFERMEDAD	2887	113	AI ligeramente dilatada
+casos_clinicos_cardiologia508	ENFERMEDAD	3051	114	IT
+casos_clinicos_cardiologia508	ENFERMEDAD	3508	115	Ventrículo izquierdo moderadamente dilatado
+casos_clinicos_cardiologia508	ENFERMEDAD	3650	116	IA leve
+casos_clinicos_cardiologia508	ENFERMEDAD	263	117	lesiones coronarias
+casos_clinicos_cardiologia491	ENFERMEDAD	3347	118	IM
+casos_clinicos_cardiologia491	ENFERMEDAD	3824	119	IM se catalogó como leve
+casos_clinicos_cardiologia491	ENFERMEDAD	1020	120	ventrículo izquierdo dilatado
+casos_clinicos_cardiologia491	ENFERMEDAD	1267	121	aurícula izquierda estaba muy dilatada
+casos_clinicos_cardiologia491	ENFERMEDAD	2178	122	tronco coronario izquierdo emergiendo de la AP
+casos_clinicos_cardiologia491	ENFERMEDAD	3139	123	dilatación del anillo mitral
+casos_clinicos_cardiologia491	ENFERMEDAD	727	124	crecimiento de cavidades izquierdas
+casos_clinicos_cardiologia491	ENFERMEDAD	2542	125	lesiones presentes en el aparato valvular mitral
+casos_clinicos_cardiologia491	ENFERMEDAD	2759	126	salida del tronco coronario izquierdo de la AP
+casos_clinicos_cardiologia17	ENFERMEDAD	891	127	vegetaciones en la valva anterior de la válvula mitral
+casos_clinicos_cardiologia17	ENFERMEDAD	1101	128	válvula aórtica se encontraron múltiples vegetaciones en las tres valvas
+casos_clinicos_cardiologia17	ENFERMEDAD	1063	129	insuficiencia severa

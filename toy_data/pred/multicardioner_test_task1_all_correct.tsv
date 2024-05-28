@@ -1,0 +1,53 @@
+filename	label	start_span	end_span	text
+casos_clinicos_cardiologia508	ENFERMEDAD	88	103	hábitos tóxicos
+casos_clinicos_cardiologia508	ENFERMEDAD	124	127	HTA
+casos_clinicos_cardiologia508	ENFERMEDAD	130	140	dislipemia
+casos_clinicos_cardiologia508	ENFERMEDAD	145	162	diabetes mellitus
+casos_clinicos_cardiologia508	ENFERMEDAD	164	191	Fractura de 5o metacarpiano
+casos_clinicos_cardiologia508	ENFERMEDAD	193	220	Síndrome depresivo reactivo
+casos_clinicos_cardiologia508	ENFERMEDAD	251	258	SCASEST
+casos_clinicos_cardiologia508	ENFERMEDAD	329	350	fibrilación auricular
+casos_clinicos_cardiologia508	ENFERMEDAD	1503	1506	TVP
+casos_clinicos_cardiologia508	ENFERMEDAD	1552	1576	taquicardia de QRS ancho
+casos_clinicos_cardiologia508	ENFERMEDAD	1611	1614	BRD
+casos_clinicos_cardiologia508	ENFERMEDAD	3085	3104	derrame pericárdico
+casos_clinicos_cardiologia508	ENFERMEDAD	3190	3222	miocarditis aguda (VI) con edema
+casos_clinicos_cardiologia508	ENFERMEDAD	3810	3833	arritmias ventriculares
+casos_clinicos_cardiologia508	ENFERMEDAD	3920	3929	arritmias
+casos_clinicos_cardiologia508	ENFERMEDAD	3977	3993	edema miocárdico
+casos_clinicos_cardiologia508	ENFERMEDAD	4020	4037	miocarditis aguda
+casos_clinicos_cardiologia508	ENFERMEDAD	4527	4560	Taquicardia ventricular sostenida
+casos_clinicos_cardiologia508	ENFERMEDAD	4576	4593	miocarditis aguda
+casos_clinicos_cardiologia508	ENFERMEDAD	2887	2910	AI ligeramente dilatada
+casos_clinicos_cardiologia508	ENFERMEDAD	3051	3053	IT
+casos_clinicos_cardiologia508	ENFERMEDAD	3508	3551	Ventrículo izquierdo moderadamente dilatado
+casos_clinicos_cardiologia508	ENFERMEDAD	3650	3657	IA leve
+casos_clinicos_cardiologia508	ENFERMEDAD	263	282	lesiones coronarias
+casos_clinicos_cardiologia491	ENFERMEDAD	809	829	insuficiencia mitral
+casos_clinicos_cardiologia491	ENFERMEDAD	1377	1427	shunt izquierda- derecha a través del foramen oval
+casos_clinicos_cardiologia491	ENFERMEDAD	1695	1709	fibroelastosis
+casos_clinicos_cardiologia491	ENFERMEDAD	2054	2090	origen anómalo coronario desde la AP
+casos_clinicos_cardiologia491	ENFERMEDAD	2260	2266	ALCAPA
+casos_clinicos_cardiologia491	ENFERMEDAD	2268	2324	Anomalous Left Coronary Artery from the Pulmonary Artery
+casos_clinicos_cardiologia491	ENFERMEDAD	2343	2374	síndrome de Bland-White-Garland
+casos_clinicos_cardiologia491	ENFERMEDAD	4092	4098	ALCAPA
+casos_clinicos_cardiologia491	ENFERMEDAD	4100	4156	Anomalous Left Coronary Artery from the Pulmonary Artery
+casos_clinicos_cardiologia491	ENFERMEDAD	4159	4190	Síndrome de Bland-White-Garland
+casos_clinicos_cardiologia491	ENFERMEDAD	4193	4231	Insuficiencia Mitral severa secundaria
+casos_clinicos_cardiologia491	ENFERMEDAD	831	833	IM
+casos_clinicos_cardiologia491	ENFERMEDAD	1444	1446	IM
+casos_clinicos_cardiologia491	ENFERMEDAD	3347	3349	IM
+casos_clinicos_cardiologia491	ENFERMEDAD	3824	3848	IM se catalogó como leve
+casos_clinicos_cardiologia491	ENFERMEDAD	1020	1049	ventrículo izquierdo dilatado
+casos_clinicos_cardiologia491	ENFERMEDAD	1267	1305	aurícula izquierda estaba muy dilatada
+casos_clinicos_cardiologia491	ENFERMEDAD	2178	2224	tronco coronario izquierdo emergiendo de la AP
+casos_clinicos_cardiologia491	ENFERMEDAD	3139	3167	dilatación del anillo mitral
+casos_clinicos_cardiologia491	ENFERMEDAD	727	762	crecimiento de cavidades izquierdas
+casos_clinicos_cardiologia491	ENFERMEDAD	2542	2590	lesiones presentes en el aparato valvular mitral
+casos_clinicos_cardiologia491	ENFERMEDAD	2759	2805	salida del tronco coronario izquierdo de la AP
+casos_clinicos_cardiologia17	ENFERMEDAD	891	945	vegetaciones en la valva anterior de la válvula mitral
+casos_clinicos_cardiologia17	ENFERMEDAD	1001	1036	aneurisma de 1,6 x 1,3 cm perforado
+casos_clinicos_cardiologia17	ENFERMEDAD	1244	1287	perforación de la valva semilunar posterior
+casos_clinicos_cardiologia17	ENFERMEDAD	1401	1433	osteomielitis vertebral de L4-L5
+casos_clinicos_cardiologia17	ENFERMEDAD	1101	1173	válvula aórtica se encontraron múltiples vegetaciones en las tres valvas
+casos_clinicos_cardiologia17	ENFERMEDAD	1063	1083	insuficiencia severa
