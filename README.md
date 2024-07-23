@@ -11,7 +11,7 @@ This repository is heavily based on the [MedProcNER evaluation library](https://
 To use this scorer, you'll need to have Python 3 installed in your computer. Clone this repository, create a new virtual environment and then install the required packages:
 
 ```bash
-git clone https://github.com/TeMU-BSC/multicardioner_evaluation_library
+git clone https://github.com/nlp4bia-bsc/multicardioner_evaluation_library
 cd multicardioner_evaluation_library
 python3 -m venv venv/
 source venv/bin/activate
