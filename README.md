@@ -47,9 +47,16 @@ These are the possible arguments:
 
 
 ## Citation
-This section will be updated soon with the citation info.
+If you use the MultiCardioNER evaluation library or data, please cite:
 
-## contact
+@inproceedings{multicardioner2024overview,
+title={{Overview of MultiCardioNER task at BioASQ 2024 on Medical Speciality and Language Adaptation of Clinical NER Systems for Spanish, English and Italian}},
+author={Salvador Lima-López and Eulàlia Farré-Maduell and Jan Rodríguez-Miret and Miguel Rodríguez-Ortega and Livia Lilli and Jacopo Lenkowicz and Giovanna Ceroni and Jonathan Kossoff and Anoop Shah and Anastasios Nentidis and Anastasia Krithara and Georgios Katsimpras and Georgios Paliouras and Martin Krallinger},
+booktitle={CLEF Working Notes},
+year={2024},
+editor = {Faggioli, Guglielmo and Ferro,  Nicola and  Galuščáková, Petra and  García Seco de Herrera, Alba}}
+
+## Contact
 If you have any questions or suggestions, please contact us at:
 
 - Salvador Lima-López (<salvador [dot] limalopez [at] gmail [dot] com>)
